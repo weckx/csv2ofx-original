@@ -13,11 +13,14 @@ as instruções do site ou com o [pip](https://pypi.org/project/pip/) usando o c
 
 Para utilizar, simplesmente faça o clone ou download do repositório e execute o comando com:
 
-   python csv2ofx-original.py [arquivo csv]
+```
+python csv2ofx-original.py [arquivo csv]
+```
 
 O conteúdo do OFX será direcionado para a saída padrão. Para salvar num arquivo:
 
-   python csv2ofx-original.py [arquivo csv] > extrato.ofx
-
+```
+python csv2ofx-original.py [arquivo csv] > extrato.ofx
+```
 
 
