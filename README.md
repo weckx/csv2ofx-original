@@ -7,7 +7,9 @@ Script simples para converter arquivos CSV de extrato do Banco Original para o f
 O script utilizar a biblioteca [ofxtools](https://pypi.org/project/ofxtools/) para gerar o arquivo. Instalar seguindo
 as instruções do site ou com o [pip](https://pypi.org/project/pip/) usando o comando:
 
-   pip install ofxtools
+```
+pip install ofxtools
+```
 
 ## Uso
 
